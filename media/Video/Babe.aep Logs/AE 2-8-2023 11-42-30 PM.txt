@@ -1,0 +1,8 @@
+  2/8/2023 11:42:30 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\ravee\PycharmProjects\BabeSheet\media\Video\BabeVideo.mov    2/8/2023 11:43:06 PM: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 36 Seconds
+Log closed on 2/8/2023 at 11:43:06 PM
+
